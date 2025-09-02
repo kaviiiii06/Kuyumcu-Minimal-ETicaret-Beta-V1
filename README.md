@@ -1,4 +1,4 @@
-# 💎 Birko Kuyumculuk - Modern Web Uygulaması
+# 💎 Kuyumculuk - Modern Web Uygulaması
 
 Bu proje, Birko Kuyumculuk şirketi için geliştirilmiş modern bir full-stack web uygulamasıdır. React frontend ve Node.js backend kullanılarak geliştirilmiştir.
 
@@ -160,9 +160,9 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-- **Website**: [birko-kuyumculuk.com](https://birko-kuyumculuk.com)
-- **Email**: info@birkokuyumculuk.com
-- **Phone**: +90 (212) 555-0123
+- **İnstagram**: [one.barann](https://www.instagram.com/one.barann)
+- **Email**: kavipc06@gmail.com
+- **Phone**: +90 (538) 969 36 06
 
 ## 🙏 Teşekkürler
 
